@@ -1,0 +1,3 @@
+C:/Users/Xingji_Chen/Downloads/Module_1/T1_1_First_task/src/cmake-build-debug/CMakeFiles/src.dir
+C:/Users/Xingji_Chen/Downloads/Module_1/T1_1_First_task/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xingji_Chen/Downloads/Module_1/T1_1_First_task/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
