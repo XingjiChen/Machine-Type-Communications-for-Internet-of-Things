@@ -1,0 +1,23 @@
+"D:\clion\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/clion/CLion 2023.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\Xingji_Chen\Desktop\Machine Type Communications for Internet of Things\Module_4\T4_5_Dragons" -B "C:\Users\Xingji_Chen\Desktop\Machine Type Communications for Internet of Things\Module_4\T4_5_Dragons\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/clion/CLion 2023.3.2/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/clion/CLion 2023.3.2/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- BUILD directory is C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/cmake-build-debug
+-- SRC directory is C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons
+-- SRC directory source code files: 
+	-- HEADERS: C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/dragon.hpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/dragon_cave.hpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/fantasy_dragon.hpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/magic_dragon.hpp
+	-- C SOURCES: 
+	-- CPP SOURCE:C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/dragon.cpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/dragon_cave.cpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/fantasy_dragon.cpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/magic_dragon.cpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/main.cpp
+	-- ALL:C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/dragon.cpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/dragon_cave.cpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/fantasy_dragon.cpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/magic_dragon.cpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/main.cpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/dragon.hpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/dragon_cave.hpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/fantasy_dragon.hpp;C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/src/magic_dragon.hpp
+-- Configuring done (2.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Xingji_Chen/Desktop/Machine Type Communications for Internet of Things/Module_4/T4_5_Dragons/cmake-build-debug
